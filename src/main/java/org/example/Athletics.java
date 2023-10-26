@@ -12,6 +12,5 @@ public class Athletics
         resultProcessor.showResult(5, "Male", "5");
         System.out.println("\nА теперь все результаты: \n");
         csvReader.out();
-        System.out.println("The end!");
     }
 }
